@@ -31,3 +31,6 @@ The motivation behind this repository is to:
 - `computer_vision/`: Directory containing experiments and results related to computer vision tasks
 - `graph_data/`: Directory containing experiments and results related to graph data and network analysis tasks
 - `anomaly_detection/`: Directory containing experiments and results related to anomaly detection tasks
+- `dna_sequence_analysis/`: Directory containing experiments and results related to DNA sequence analysis tasks
+
+
